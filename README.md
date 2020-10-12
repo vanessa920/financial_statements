@@ -1,1 +1,3 @@
-# Financial Statement Lineae Regression 
+# Financial Statement Linear Regression
+
+Methodology
